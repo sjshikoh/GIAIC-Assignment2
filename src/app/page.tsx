@@ -13,8 +13,8 @@ export default function Home() {
 
       <h4 className="h-[60px] text-[20px] text-white leading-8 pt-10 pb-28">We know how large objects will act, but things on a<br /> small scale just do not act that way.</h4>
       <div className=" h-[52px]">
-        <button className="w-[193px] h-[52px] rounded-[5px] mr-2 gap-10 pt-4 pr-10 pb-4 pl-10 bg-[#23A6F0] text-white">Get Quote Now</button>
-        <button className="[w-193px] h-[52px] rounded-[5px] pt-4 pr-10 pb-4 pl-10 border-[1px] border-[#23A6F0] text-[#23A6F0]">Learn More</button>
+        <button className="w-[193px] h-[52px] rounded-[5px] mr-2 gap-10 pt-4 pr-10 pb-4 pl-10 bg-[#23A6F0] text-white hover:text-sky-400">Get Quote Now</button>
+        <button className="[w-193px] h-[52px] rounded-[5px] pt-4 pr-10 pb-4 pl-10 border-[1px] border-[#23A6F0] text-[#23A6F0] hover:text-white">Learn More</button>
       </div>
         </div>
       </div>
